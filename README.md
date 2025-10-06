@@ -14,7 +14,7 @@ Current scenario
 
 Astronauts generate waste daily (packaging, equipment maintenance, food containers). Without recycling systems, this waste accumulates and becomes unusable mass.
 
-⚙️ Root cause
+Root cause
 
 There is no intelligent, automated system capable of classifying, prioritizing, and transforming waste into useful resources in real time.
 
